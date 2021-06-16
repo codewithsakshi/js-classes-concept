@@ -1,2 +1,3 @@
 # js-classes-concept
-Created with CodeSandbox
+
+JS Classes Concept version 1.1
